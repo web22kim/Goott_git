@@ -13,7 +13,7 @@ pageEncoding="UTF-8"%> <%@ page import="com.miniproj.member.dao.DBConnection" %>
     <a
       href="https://m.blog.naver.com/PostView.naver?blogId=ll3145ll&logNo=223035128516&proxyReferer="
     >
-      을지로 따코맛집 제가 한번 가보겠습니다.dd!</a
+      을지로 따코맛집 제가 한번 가보겠습니다.dd!!!</a
     >
   </body>
 </html>
